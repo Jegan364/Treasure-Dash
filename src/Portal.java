@@ -3,6 +3,7 @@ import city.cs.engine.BoxShape;
 import city.cs.engine.StaticBody;
 import city.cs.engine.World;
 
+// Portal unlocks when all coins are collected
 // Portal class represents the level exit
 public class Portal extends StaticBody {
 
