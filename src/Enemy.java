@@ -6,6 +6,7 @@ import city.cs.engine.StepListener;
 import city.cs.engine.World;
 import org.jbox2d.common.Vec2;
 
+// Enemy follows the player and jumps when needed
 // Enemy class that follows and attacks the player
 public class Enemy extends DynamicBody {
 
