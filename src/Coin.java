@@ -3,6 +3,7 @@ import city.cs.engine.CircleShape;
 import city.cs.engine.StaticBody;
 import city.cs.engine.World;
 
+// Coin increases player score when collected
 public class Coin extends StaticBody {
 
     // Tracks whether the coin has already been collected
