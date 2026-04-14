@@ -6,6 +6,7 @@ import city.cs.engine.StepListener;
 import city.cs.engine.World;
 import org.jbox2d.common.Vec2;
 
+// Handles player movement
 // Player class controls the main character
 public class Player extends DynamicBody {
 
