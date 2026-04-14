@@ -3,6 +3,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import java.awt.FlowLayout;
 
+// Displays game stats (level, score, lives, time)
 // This class creates the top UI panel (buttons + game info)
 public class ControlPanel extends JPanel {
 
